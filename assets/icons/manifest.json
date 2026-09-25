@@ -1,0 +1,114 @@
+[
+  {
+    "key": "ss2-building",
+    "label": "Building",
+    "color": "#d6b185",
+    "index": 0,
+    "file": "ss2-building.png"
+  },
+  {
+    "key": "ss2-scripting",
+    "label": "Luau",
+    "color": "#e4dbc9",
+    "index": 1,
+    "file": "ss2-scripting.png"
+  },
+  {
+    "key": "ss2-server",
+    "label": "Server script",
+    "color": "#cd9585",
+    "index": 2,
+    "file": "ss2-server.png"
+  },
+  {
+    "key": "ss2-client",
+    "label": "Local script",
+    "color": "#a9bd97",
+    "index": 3,
+    "file": "ss2-client.png"
+  },
+  {
+    "key": "ss2-module",
+    "label": "Module script",
+    "color": "#99b5bf",
+    "index": 4,
+    "file": "ss2-module.png"
+  },
+  {
+    "key": "ss2-testing",
+    "label": "Playtesting",
+    "color": "#aec393",
+    "index": 5,
+    "file": "ss2-testing.png"
+  },
+  {
+    "key": "ss2-terrain",
+    "label": "Terrain",
+    "color": "#b0bc87",
+    "index": 6,
+    "file": "ss2-terrain.png"
+  },
+  {
+    "key": "ss2-ui",
+    "label": "Interface",
+    "color": "#c2afa1",
+    "index": 7,
+    "file": "ss2-ui.png"
+  },
+  {
+    "key": "ss2-animation",
+    "label": "Animation",
+    "color": "#d4b287",
+    "index": 8,
+    "file": "ss2-animation.png"
+  },
+  {
+    "key": "ss2-lighting",
+    "label": "Lighting",
+    "color": "#d7c283",
+    "index": 9,
+    "file": "ss2-lighting.png"
+  },
+  {
+    "key": "ss2-audio",
+    "label": "Audio",
+    "color": "#a4b9b3",
+    "index": 10,
+    "file": "ss2-audio.png"
+  },
+  {
+    "key": "ss2-modeling",
+    "label": "Modeling",
+    "color": "#a6b0c0",
+    "index": 11,
+    "file": "ss2-modeling.png"
+  },
+  {
+    "key": "ss2-debugging",
+    "label": "Debugging",
+    "color": "#ca9b93",
+    "index": 12,
+    "file": "ss2-debugging.png"
+  },
+  {
+    "key": "ss2-focus",
+    "label": "Focus",
+    "color": "#dcc08e",
+    "index": 13,
+    "file": "ss2-focus.png"
+  },
+  {
+    "key": "ss2-idle",
+    "label": "Away",
+    "color": "#adaaa1",
+    "index": 14,
+    "file": "ss2-idle.png"
+  },
+  {
+    "key": "ss2-brand",
+    "label": "StudioSignal",
+    "color": "#d6a665",
+    "index": 15,
+    "file": "ss2-brand.png"
+  }
+]
