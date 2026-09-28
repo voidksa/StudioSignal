@@ -1,0 +1,30 @@
+{
+  "cell": 128,
+  "columns": 6,
+  "names": [
+    "activity",
+    "back",
+    "eye",
+    "focus",
+    "help",
+    "image",
+    "link",
+    "lock",
+    "moon",
+    "more",
+    "pause",
+    "pin",
+    "play",
+    "plus",
+    "profile",
+    "refresh",
+    "report",
+    "save",
+    "settings",
+    "stop",
+    "timer",
+    "trash",
+    "unlink",
+    "unlock"
+  ]
+}

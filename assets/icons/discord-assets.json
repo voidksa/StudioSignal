@@ -1,0 +1,18 @@
+{
+  "animation": "ANIMATION_ASSET_ID",
+  "audio": "AUDIO_ASSET_ID",
+  "brand": "BRAND_ASSET_ID",
+  "building": "BUILDING_ASSET_ID",
+  "client": "CLIENT_ASSET_ID",
+  "debugging": "DEBUGGING_ASSET_ID",
+  "focus": "FOCUS_ASSET_ID",
+  "idle": "IDLE_ASSET_ID",
+  "lighting": "LIGHTING_ASSET_ID",
+  "modeling": "MODELING_ASSET_ID",
+  "module": "MODULE_ASSET_ID",
+  "scripting": "SCRIPTING_ASSET_ID",
+  "server": "SERVER_ASSET_ID",
+  "terrain": "TERRAIN_ASSET_ID",
+  "testing": "TESTING_ASSET_ID",
+  "ui": "UI_ASSET_ID"
+}
